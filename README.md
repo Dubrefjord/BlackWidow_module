@@ -1,3 +1,5 @@
+Black Widow crawler to be used with ModuleMatcher
+
 Forked from mirdeger/bw to have all code associated with ModuleMatcher in one place.
 
 # Run
